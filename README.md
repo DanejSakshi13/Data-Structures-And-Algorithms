@@ -19,6 +19,9 @@ Construct an expression tree from the given prefix expression eg:+-a*bc/def and 
 #### Assignment 7 :
 Represent a given graph using adjacency matrix/list to perform DFS and using adjacency list to perform BFS. Use the map of the area around the college as the graph. Identify the prominent landmarks as nodes and perform DFS and BFS on that.
 
+#### Assignment 8 :
+There are flight paths between cities. If there is a flight betwee ncity A and city B then there is an edge between the cities. The cost of the edge can be the time that flight takes to reach city B from A, or the amount of fuel used for the journey. Represent this as a grap. The node can be represented by the city name. Use representation of graph. Check whether the graph is connected or not. Justify the storage representation used.
+
 #### Assignment 11 :
 Department maintains student information. <the file contains roll number, name division and address. Allow users to add, delete information about students. Display information of a particular student. If the record of the student does not exist an appropriate message is displayed. If it is , then the system displays the student detials. Use a sequantial file to maintain the data.
 
