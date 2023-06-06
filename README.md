@@ -6,6 +6,12 @@
 #### Assignment 1 : 
 Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell data structure with modularity of programming language.
 
+#### Assignment 2 :
+Consider telephone book database of N clients. Make use of a hash table implementation to quickly look up client‘s telephone number. Make use of two collision handling techniques and compare them using number of comparisons required to find a set of telephone numbers.
+
+#### Assignment 3 : 
+Implement all the functions of a dictionary (ADT) using hashing. Data: Set of (key, value) pairs, Keys are mapped to values, Keys must be comparable, Keys must be unique Standard Operations: Insert(key, value), Find(key), Delete(key)
+
 #### Assignment 4 : 
 Beginning with an empty binary search tree, Construct binary search tree by inserting the values in the order given. After constructing  binary tree 
 i. Insert new node
@@ -27,5 +33,7 @@ Read the marks obtained by students for second year in an online examination of 
 
 #### Assignment 11 :
 Department maintains student information. <the file contains roll number, name division and address. Allow users to add, delete information about students. Display information of a particular student. If the record of the student does not exist an appropriate message is displayed. If it is , then the system displays the student detials. Use a sequantial file to maintain the data.
+
+
 
 
