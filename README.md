@@ -22,6 +22,9 @@ vi. Search a value
 #### Assignment 5 :
 Construct an expression tree from the given prefix expression eg:+-a*bc/def and traverse it using post order traversal (non recursive) and then delete the entire tree.
 
+#### Assignment 6 :
+A dictionary stores keywords and its meanings. Provide facility for adding new keywords, deleting keywords, updatng values of any entry. Provide a facility to display whole data sorted in ascending /descending order. Also find how many maximum comparisions may require for finding any keyword. Use binary search tree for the implementation.
+
 #### Assignment 7 :
 Represent a given graph using adjacency matrix/list to perform DFS and using adjacency list to perform BFS. Use the map of the area around the college as the graph. Identify the prominent landmarks as nodes and perform DFS and BFS on that.
 
