@@ -31,6 +31,9 @@ Represent a given graph using adjacency matrix/list to perform DFS and using adj
 #### Assignment 8 :
 There are flight paths between cities. If there is a flight betwee ncity A and city B then there is an edge between the cities. The cost of the edge can be the time that flight takes to reach city B from A, or the amount of fuel used for the journey. Represent this as a grap. The node can be represented by the city name. Use representation of graph. Check whether the graph is connected or not. Justify the storage representation used.
 
+#### Assignment 9 :
+A dictionary stores keywords and its meaning. Provide facility for adding new keywords, deleting keywords , updating values of any entry. Provide a facility to display whole data sorted in asceding/descending order. Also find how many maximum comparisions may require for finding any keyword. Use height balanced tree and find the complexity for finding a keyword.
+
 #### Assignment 10 :
 Read the marks obtained by students for second year in an online examination of a particular subject. Find out maximum and minimum marks obtained in that subject. Use heap data structure. Analyze the algorithm.
 
